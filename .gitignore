@@ -1,0 +1,8 @@
+bin
+.air/
+.idea/
+.vscode
+.DS_Store
+target/
+*.iml
+go-telegram
